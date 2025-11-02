@@ -1,0 +1,6 @@
+// hello.c
+#include <stdio.h>
+int main() {
+    printf("ZynxCache build test OK\n");
+    return 0;
+}
